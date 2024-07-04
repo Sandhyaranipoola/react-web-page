@@ -1,0 +1,25 @@
+.section2-container {
+    max-width: 600px;
+    height: 90vh;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding-top: 30px;
+  }
+  
+  .section2-title {
+    color: rgb(85, 85, 153);
+    padding-top: 20px;
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  
+  .section2-text {
+    color: #666;
+    font-size: 16px;
+    padding-top: 40px;
+    line-height: 1.6;
+  }
+  

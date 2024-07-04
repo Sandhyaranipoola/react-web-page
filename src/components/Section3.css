@@ -1,0 +1,34 @@
+.section-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 2rem;
+    background-color: #b8d5b6; 
+  }
+  
+  .column {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .content {
+    text-align: center;
+  }
+  
+  .heading {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #1a202c; 
+  }
+  
+  .description {
+    font-size: 1.25rem;
+    color: #4a5568; 
+    margin-top: 0.5rem;
+  }
+  
+  .description .block {
+    display: block;
+    margin-top: 0.25rem;
+  }
+  
